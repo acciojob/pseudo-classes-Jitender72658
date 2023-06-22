@@ -2,17 +2,14 @@
 li:nth-child(odd){
 	background:white;
 	padding: 5px;
-	border:1px solid black;
 }
 li:nth-child(even){
 	background:slategray;
 	padding: 5px;
-	border:1px solid black;
 }
 li:nth-child(3){
 	background:pink;
 	padding: 5px;
-	border:1px solid black;
 }
 .first-para{
 	border:1px solid black;
@@ -24,5 +21,8 @@ li:nth-child(3){
 	color: red;
 }
 body{
+	background:skyblue;
+}
+html{
 	background:skyblue;
 }
