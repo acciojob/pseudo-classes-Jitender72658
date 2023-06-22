@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+li:nth-child(odd){
+	background:white;
+	padding: 5px;
+	border:1px solid black;
+}
+li:nth-child(even){
+	background:slategray;
+	padding: 5px;
+	border:1px solid black;
+}
+li:nth-child(3){
+	background:pink;
+	padding: 5px;
+	border:1px solid black;
+}
+.first-para{
+	border:1px solid black;
+	color: white;
+	background: black;
+	padding:5px;
+}
+.last-para{
+	color: red;
+}
+body{
+	background:skyblue;
+}
